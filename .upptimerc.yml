@@ -7,8 +7,10 @@ sites:
     url: https://xenit.se
   - name: Xenit - Confluence
     url: https://xenit.atlassian.net
+    icon: https://icons.duckduckgo.com/ip3/xenit.se.ico
   - name: Xenit - RUTIN
     url: https://rutin.xenit.se
+    icon: https://icons.duckduckgo.com/ip3/xenit.se.ico
   - name: Citrix
     url: https://www.citrix.com/
   - name: Microsoft
