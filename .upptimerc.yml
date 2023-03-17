@@ -5,6 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Xenit AB
     url: https://xenit.se
+  - name: Xenit - Confluence
+    url: https://xenit.atlassian.net
+  - name: Xenit - RUTIN
+    url: https://rutin.xenit.se
   - name: Citrix
     url: https://www.citrix.com/
   - name: Microsoft
