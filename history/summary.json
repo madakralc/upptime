@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.microsoft.com.ico",
     "slug": "microsoft",
     "status": "down",
-    "uptime": "97.34%",
+    "uptime": "96.69%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "68.23%",
-    "uptimeMonth": "92.69%",
-    "uptimeYear": "97.34%",
+    "uptimeWeek": "60.19%",
+    "uptimeMonth": "90.84%",
+    "uptimeYear": "96.69%",
     "time": 633,
     "timeDay": 135,
     "timeWeek": 377,
     "timeMonth": 625,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2023-06-09": 105,
+      "2023-06-09": 914,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
       "2023-06-06": 218
@@ -124,17 +124,19 @@
     "url": "https://portal.azure.com",
     "icon": "https://icons.duckduckgo.com/ip3/portal.azure.com.ico",
     "slug": "microsoft-azure-login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 42,
-    "timeDay": 29,
-    "timeWeek": 35,
-    "timeMonth": 41,
-    "timeYear": 42,
-    "dailyMinutesDown": {}
+    "time": 47,
+    "timeDay": 272,
+    "timeWeek": 95,
+    "timeMonth": 56,
+    "timeYear": 47,
+    "dailyMinutesDown": {
+      "2023-06-09": 0
+    }
   }
 ]
