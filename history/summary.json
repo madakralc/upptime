@@ -60,7 +60,7 @@
     "url": "https://www.citrix.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.citrix.com.ico",
     "slug": "citrix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 174,
     "timeMonth": 212,
     "timeYear": 230,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-02": 0
+    }
   },
   {
     "name": "Microsoft",
@@ -79,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.microsoft.com.ico",
     "slug": "microsoft",
     "status": "down",
-    "uptime": "76.32%",
+    "uptime": "76.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.06%",
-    "uptimeYear": "76.32%",
+    "uptimeMonth": "15.69%",
+    "uptimeYear": "76.03%",
     "time": 1058,
     "timeDay": 52,
     "timeWeek": 14325,
     "timeMonth": 2856,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2023-07-02": 115,
+      "2023-07-02": 712,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
