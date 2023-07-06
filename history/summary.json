@@ -24,10 +24,10 @@
     "url": "https://xenit.atlassian.net",
     "icon": "https://icons.duckduckgo.com/ip3/xenit.se.ico",
     "slug": "xenit-confluence",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 411,
@@ -35,7 +35,9 @@
     "timeWeek": 416,
     "timeMonth": 411,
     "timeYear": 411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-06": 2
+    }
   },
   {
     "name": "Xenit - RUTIN",
@@ -81,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.microsoft.com.ico",
     "slug": "microsoft",
     "status": "down",
-    "uptime": "73.56%",
+    "uptime": "73.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "3.92%",
-    "uptimeYear": "73.56%",
+    "uptimeMonth": "2.70%",
+    "uptimeYear": "73.32%",
     "time": 1109,
     "timeDay": 63,
     "timeWeek": 2441,
     "timeMonth": 3501,
     "timeYear": 1109,
     "dailyMinutesDown": {
-      "2023-07-06": 109,
+      "2023-07-06": 644,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
